@@ -74,14 +74,6 @@ GitHub Pages URL:
 https://saturn417.github.io/ai/
 ```
 
-## 📸 화면 예시
-
-프로젝트 화면 캡처를 추가하세요.
-
-```text
-<img width="933" height="860" alt="image" src="https://github.com/user-attachments/assets/594ebe00-a4f7-4092-9b25-8c2a55ac1fbf" />
-
-```
 
 ## 📚 참고 자료
 
